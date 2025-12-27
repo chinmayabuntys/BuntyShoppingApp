@@ -1,0 +1,9 @@
+body.bg-dark { background:#121212; color:#fff; }
+.img-fluid { object-fit: contain; max-height:300px; }
+input[type="number"], select, input[type="text"], input[type="email"], input[type="password"], textarea { padding:4px; border-radius:4px; border:1px solid #ccc; }
+.suggestions { position:absolute; background:#fff; width:100%; top:38px; box-shadow:0 2px 10px rgba(0,0,0,.2); z-index:10;}
+.suggestions a:hover { background:#f1f3f6; text-decoration:none;}
+.category span { cursor:pointer; }
+body{
+    background: linear-gradient(to right,yellow,pink,red);
+}
